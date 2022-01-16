@@ -1,0 +1,20 @@
+<resources>
+    <!--  activity_main  -->
+    <string name="app_name">SUGEETimer</string>
+    <string name="btAllSelect">All</string>
+    <string name="btCopy">Copy</string>
+    <string name="btDelete">Delete</string>
+    <string name="btRun">Run</string>
+    <string name="btCancel">Cancel</string>
+
+
+    <!--  information_customview  -->
+    <string name="tvColor">色</string>
+    <string name="tvTime">時間</string>
+    <string name="tvSound">音</string>
+    <string name="tvVibration">バイブレーション</string>
+
+    <!--  Unselected  -->
+    <string name="unregistered">画面の円上をタップし、新しタイマーポイントを登録してください</string>
+    <string name="unselected">タイマーポイントをタップすると詳細表示されます</string>
+</resources>
